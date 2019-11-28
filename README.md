@@ -1,4 +1,5 @@
-# WebGL Fluid Simulation
+# 汉化了一下控件
+## WebGL Fluid Simulation
 
 [Play here](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 
